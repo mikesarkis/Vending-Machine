@@ -1,0 +1,6 @@
+2021-11-21T11:59:56.588987100 : The item Kinder has been purchased.
+2021-11-21T13:10:28.815361200 : The item KitKat has been purchased.
+2021-11-21T13:11:07.901906600 : The item KitKat has been purchased.
+2021-11-22T15:31:40.167881300 : The item KitKat has been purchased.
+2021-11-22T16:43:57.247039800 : The item Pepsi has been purchased.
+2021-11-25T23:07:20.221187200 : The item Coca-Cola has been purchased.
